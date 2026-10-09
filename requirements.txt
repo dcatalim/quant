@@ -1,0 +1,9 @@
+pandas
+yfinance
+matplotlib
+tqdm
+scikit-learn
+tensorflow
+websocket-client
+statsmodels
+ta
